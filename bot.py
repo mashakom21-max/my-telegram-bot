@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, Router, F
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.filters import Command
 
-BOT_TOKEN = '8275666105:AAH1c5PxMnOaM_MzEagQ9c241XaJ3Hbc11E'
+BOT_TOKEN = '8275666105:AAHyBYKdlTtKD888M6Rla6tKm5DUl7GTcI8'
 ADMIN_ID = 5192470703
 
 bot = Bot(token=BOT_TOKEN)
